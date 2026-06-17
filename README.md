@@ -1,3 +1,3 @@
-# My HTML CV Project
+# About
 
-Project URL: https://github.com/MuhammadyusufShokirjonov/About.git# About
+https://github.com/MuhammadyusufShokirjonov/About
