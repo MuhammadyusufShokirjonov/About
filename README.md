@@ -1,1 +1,1 @@
-https://github.com/MuhammadyusufShokirjonov/About
+https://github.com/MuhammadyusufShokirjonov/About.git
