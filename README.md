@@ -1,1 +1,2 @@
-project url: https://github.com/MuhammadyusufShokirjonov/About
+# Project URL
+https://muhammadyusufshokirjonov.github.io/About/
